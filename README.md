@@ -16,7 +16,6 @@ A playful, interactive web experience designed to ask someone special to be your
 ## 🎯 Quick Links
 
 - 🌐 **Live Website:** [valentine-site-hazel.vercel.app](https://valentine-site-hazel.vercel.app/)
-- 💻 **Source Code:** [View on GitHub](#)
 - 📖 **Documentation:** Scroll down for full guide
 - 🚀 **Deploy Your Own:** One-click deploy with Vercel
 

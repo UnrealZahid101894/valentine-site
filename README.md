@@ -237,7 +237,7 @@ Then visit `http://localhost:8000`
 
 ### Change the Name
 ```javascript
-// Search and replace "Rosa" with your Valentine's name
+// Search and replace "Roja" with your Valentine's name
 // Search and replace "Jahid" with your name
 ```
 
@@ -290,6 +290,7 @@ Modify CSS variables in `:root`:
 | Safari | ✅ Full |
 | Mobile Safari | ✅ Full |
 | Opera | ✅ Full |
+| Brave | ✅ Full |
 
 **Minimum Requirements:**
 - CSS Grid support
@@ -340,7 +341,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 💡 Inspiration
 
-Created with love for Valentine's Day 2025. Inspired by the classic "Will you be my Valentine?" meme format with the impossible-to-click "No" button.
+Created with love for Valentine's Day 2026. Inspired by the classic "Will you be my Valentine?" meme format with the impossible-to-click "No" button.
 
 ## 🤝 Contributing
 
